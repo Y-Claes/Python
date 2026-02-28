@@ -3,10 +3,10 @@ Welkom bij mijn centrale opslagplaats voor alles wat met Python te maken heeft. 
 
 ## 📚 Leerpaden
 ### 🎓 [UCLL - Programming 1](./UCLL-Programming-1/)
-Onderdeel van mijn bachelor Toegepaste Informatica.
+Opleidingsonderdeel van mijn bachelor Toegepaste Informatica.
 
 ### 🎥 [FreeCodeCamp - Python Basics](./Python-Basics/)
-Zelfstudie gericht op fundamentals van Python.
+Zelfstudiecursus van Free Code Camp gericht op de fundamentals van Python.
 
 ### 📺 [YouTube Tutorials](./Python-Tutorial-for-Beginners/)
-Diverse bronnen voor specifieke tools en libraries.
+Diverse bronnen voor specifieke oefeningen/projecten.
